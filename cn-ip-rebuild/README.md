@@ -125,7 +125,7 @@ $env:GH_TOKEN='<token>'; node files/runtime/upload-gh.js
 
 ## 仓库产出
 
-上传到 `SamrtinSinale/IPset_List`（branch `main`）：
+上传到 `SamrtinSinako/IPset_List`（branch `main`）：
 
 ```
 cn_ip_final.srs    国内 IP 列表

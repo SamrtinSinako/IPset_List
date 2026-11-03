@@ -140,13 +140,13 @@ else                        → 删
 
 ## 六、上传
 
-**仓库**：`SamrtinSinale/IPset_List`（branch `main`）
+**仓库**：`SamrtinSinako/IPset_List`（branch `main`）
 **文件**：`cn_ip_final.srs` / `cn_domain.srs` / `ai.srs`
 
 **配置里的 URL 不用改**（已固定指向该仓库）：
 
 ```
-https://gh-proxy.com/https://raw.githubusercontent.com/SamrtinSinale/IPset_List/main/cn_ip_final.srs
+https://gh-proxy.com/https://raw.githubusercontent.com/SamrtinSinako/IPset_List/main/cn_ip_final.srs
 ```
 
 **上传后必须回读校验**（`raw.githubusercontent.com` 有 CDN 缓存，用 GitHub API 的 `contents` 端点核对 sha256，不要用 CDN）。

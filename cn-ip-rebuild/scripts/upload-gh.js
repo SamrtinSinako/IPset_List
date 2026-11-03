@@ -3,7 +3,7 @@
 // in a file or in stdout.
 const fs = require('node:fs');
 
-const OWNER = 'SamrtinSinale';
+const OWNER = 'SamrtinSinako';
 const REPO = 'IPset_List';
 const PATH = 'cn_ip_final.srs';
 const BRANCH = 'main';
